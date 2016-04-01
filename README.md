@@ -1,3 +1,3 @@
 # webpack-learning
-webpack start
+webpack start /n
 just test MD file.
